@@ -1,0 +1,12 @@
+D:\临时\下载\21840306WMSOverviewSolution\Get Capabilities Example\bin\Debug\Get Capabilities Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Capabilities Example\bin\Debug\Get Capabilities Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\Get Capabilities Example\obj\Debug\ResolveAssemblyReference.cache
+D:\临时\下载\21840306WMSOverviewSolution\Get Capabilities Example\obj\Debug\Get Capabilities Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Capabilities Example\obj\Debug\Get Capabilities Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Capabilities Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Capabilities Example.pdb
+D:\WMSOverviewSolution\bin\Debug\Get Capabilities Example.exe
+D:\WMSOverviewSolution\bin\Debug\Get Capabilities Example.pdb
+D:\WMSOverviewSolution\Get Capabilities Example\obj\Debug\ResolveAssemblyReference.cache
+D:\WMSOverviewSolution\Get Capabilities Example\obj\Debug\Get Capabilities Example.exe
+D:\WMSOverviewSolution\Get Capabilities Example\obj\Debug\Get Capabilities Example.pdb
