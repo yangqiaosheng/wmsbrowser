@@ -1,0 +1,14 @@
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\bin\Debug\Get Map Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\bin\Debug\Get Map Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\bin\Debug\Wms.Client.dll
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\bin\Debug\Wms.Client.pdb
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\obj\Debug\ResolveAssemblyReference.cache
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\obj\Debug\Get Map Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Example\obj\Debug\Get Map Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Map Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Map Example.pdb
+D:\WMSOverviewSolution\bin\Debug\Get Map Example.exe
+D:\WMSOverviewSolution\bin\Debug\Get Map Example.pdb
+D:\WMSOverviewSolution\Get Map Example\obj\Debug\ResolveAssemblyReference.cache
+D:\WMSOverviewSolution\Get Map Example\obj\Debug\Get Map Example.exe
+D:\WMSOverviewSolution\Get Map Example\obj\Debug\Get Map Example.pdb

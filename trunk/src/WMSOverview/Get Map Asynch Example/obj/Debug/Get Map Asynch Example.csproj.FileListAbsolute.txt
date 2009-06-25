@@ -1,0 +1,18 @@
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\bin\Debug\Get Map Asynch Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\bin\Debug\Get Map Asynch Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\bin\Debug\Wms.Client.dll
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\bin\Debug\Wms.Client.pdb
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\obj\Debug\ResolveAssemblyReference.cache
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Wms.Client.GetMapAsynchExample.resources
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.csproj.GenerateResource.Cache
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.pdb
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Map Asynch Example.exe
+D:\临时\下载\21840306WMSOverviewSolution\bin\Debug\Get Map Asynch Example.pdb
+D:\WMSOverviewSolution\bin\Debug\Get Map Asynch Example.exe
+D:\WMSOverviewSolution\bin\Debug\Get Map Asynch Example.pdb
+D:\WMSOverviewSolution\Get Map Asynch Example\obj\Debug\ResolveAssemblyReference.cache
+D:\WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Wms.Client.GetMapAsynchExample.resources
+D:\WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.csproj.GenerateResource.Cache
+D:\WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.exe
+D:\WMSOverviewSolution\Get Map Asynch Example\obj\Debug\Get Map Asynch Example.pdb
